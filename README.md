@@ -1,2 +1,2 @@
 # hello-world
-My first
+My first Github contribution. Like to learn how to code!
